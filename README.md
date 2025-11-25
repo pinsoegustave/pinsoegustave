@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/pinsoeg" target="blank"><img src="https://img.shields.io/twitter/follow/pinsoeg?logo=twitter&style=for-the-badge" alt="pinsoeg" /></a> </p>
 
-- 🔭 I’m currently working on [Ngoga's Commerce Website](https://ngoga-commerce.vercel.app/)
+- 🔭 I’m currently working on Intego Consultancy Business
 
 - 🌱 I’m currently learning **Cloud Computing, Mobile Development**
 
